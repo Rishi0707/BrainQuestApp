@@ -136,4 +136,10 @@ Modify quiz parameters in `src/services/quizService.js`:
 ![Screenshot 2](./public/QuizPage.png)
 ![Screenshot 3](./public/ResultsPage.png)
 
-![Demo](./public/Quizapp.mp4)
+[Demo]
+
+
+
+https://github.com/user-attachments/assets/ba15cb52-4389-4a3b-b5c1-df503b7703a5
+
+
